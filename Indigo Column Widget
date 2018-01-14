@@ -1,0 +1,57 @@
+element.style {
+}
+style.css?ver=1.0.1:2729
+.wpzoom-media-widget .post_thumb_withbg h3.title {
+    color: #eee;
+    line-height: 1.5em;
+    padding: 8px 18px;
+    font-weight: 600;
+    font-size: 12px;
+    text-transform: uppercase;
+    background: #000;
+    display: inline-block;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+(index):73
+.widget .title {
+    color: #ffffff;
+    background: #000000;
+}
+style.css?ver=1.0.1:2555
+.widget .title {
+    margin: 0 0 20px;
+    text-transform: uppercase;
+}
+(index):73
+h1, h2, h3, h4, h5, h6 {
+    color: #000000;
+}
+style.css?ver=1.0.1:440
+h3 {
+    font-size: 24px;
+}
+style.css?ver=1.0.1:419
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.1;
+    color: #000;
+}
+style.css?ver=1.0.1:534
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+h3 {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
